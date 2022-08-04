@@ -1,4 +1,4 @@
-# 3d-vision-transformers
+# 3D Vision with Transformers
 A list of 3D computer vision papers with Transformers
 
 #### Content
