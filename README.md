@@ -1,5 +1,7 @@
-# 3D Vision with Transformers
-A list of 3D computer vision papers with Transformers
+# [3D Vision with Transformers: A Survey](https://arxiv.org/abs/2208.04309)
+Jean Lahoud, Jiale Cao, Fahad Shahbaz Khan, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Ming-Hsuan Yang
+
+This repo includes all the 3D computer vision papers with Transformers which are presented in our [paper](https://arxiv.org/abs/2208.04309), and we aim to frequently update the latest relevant papers.
 
 #### Content
 - [Object Classification](#object-classification)<br>
