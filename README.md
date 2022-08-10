@@ -273,5 +273,3 @@ If you find the listing or the survey useful for your work, please cite our pape
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
-
-
