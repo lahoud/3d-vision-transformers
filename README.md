@@ -260,6 +260,18 @@ Robust point cloud registra tion framework based on deep graph matching<br>
 Regtr: End-to-end point cloud correspondences with transformer<br>
 
 
+# Citation
 
+If you find the listing or the survey useful for your work, please cite our paper:
+
+```
+@misc{lahoud20223d,
+      title={3D Vision with Transformers: A Survey}, 
+      author={Lahoud, Jean and Cao, Jiale and Khan, Fahad Shahbaz and Cholakkal, Hisham and Anwer, Rao Muhammad and Khan, Salman and Yang, Ming-Hsuan},
+      year={2022},
+      eprint={2208.04309},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
 
