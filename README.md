@@ -70,7 +70,11 @@ Attentional shapecontextnet for point cloud recognition [[PDF](http://openaccess
 
 Bridged Transformer for Vision and Point Cloud 3D Object Detection [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Bridged_Transformer_for_Vision_and_Point_Cloud_3D_Object_Detection_CVPR_2022_paper.pdf)] <br>
 
+Multimodal Token Fusion for Vision Transformers [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Multimodal_Token_Fusion_for_Vision_Transformers_CVPR_2022_paper.pdf)] [[Code](https://github.com/yikaiw/TokenFusion)] <br>
+
 CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_CAT-Det_Contrastively_Augmented_Transformer_for_Multi-Modal_3D_Object_Detection_CVPR_2022_paper.pdf)] <br>
+
+Focused Decoding Enables 3D Anatomical Detection by Transformers [[PDF](https://arxiv.org/pdf/2207.10774.pdf)][[Code](https://github.com/bwittmann/transoar)] <br>
 
 MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection [[PDF](https://arxiv.org/pdf/2203.13310)][[Code](https://github.com/ZrrSkywalker/MonoDETR)] <br>
 
@@ -85,6 +89,8 @@ Point Density-Aware Voxels for LiDAR 3D Object Detection [[PDF](https://openacce
 PETR: Position Embedding Transformation for Multi-View 3D Object Detection [[PDF](https://arxiv.org/pdf/2203.05625)][[Code](https://github.com/megvii-research/PETR)] <br>
 
 ARM3D: Attention-based relation module for indoor 3D object detection [[PDF](https://link.springer.com/content/pdf/10.1007/s41095-021-0252-6.pdf)][[Code](https://github.com/lanlan96/arm3d)] <br>
+
+MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer [[PDF](https://arxiv.org/abs/2203.10981)][[Code](https://github.com/KuanchihHuang/MonoDTR)] <br>
 
 Attention-based Proposals Refinement for 3D Object Detection [[PDF](https://arxiv.org/pdf/2201.07070)][[Code](https://github.com/quan-dao/APRO3D-Net)] <br>
 
@@ -125,6 +131,8 @@ For part segmentation, check [Object Classification](#object-classification)
 
 Stratified Transformer for 3D Point Cloud Segmentation [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lai_Stratified_Transformer_for_3D_Point_Cloud_Segmentation_CVPR_2022_paper.pdf)][[Code](https://github.com/dvlab-research/Stratified-Transformer)] <br>
 
+Multimodal Token Fusion for Vision Transformers [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Multimodal_Token_Fusion_for_Vision_Transformers_CVPR_2022_paper.pdf)] [[Code](https://github.com/yikaiw/TokenFusion)] <br>
+
 Sparse Cross-scale Attention Network for Efficient LiDAR Panoptic Segmentation [[PDF](https://www.aaai.org/AAAI22Papers/AAAI-5976.XuS.pdf)] <br>
 
 Fast Point Transformer [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Fast_Point_Transformer_CVPR_2022_paper.pdf)][[Code](https://github.com/POSTECH-CVLab/FastPointTransformer)] <br>
@@ -151,6 +159,8 @@ After-unet: Axial fusion transformer unet for medical image segmentation [[PDF](
 Bitr-unet: a cnn-transformer combined network for mri brain tumor segmentation [[PDF](https://arxiv.org/pdf/2109.12271)] <br>
 
 nnformer: Interleaved transformer for volumetric segmentation [[PDF](https://arxiv.org/pdf/2109.03201)][[Code](https://github.com/282857341/nnFormer)] <br>
+
+UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation [[PDF](https://arxiv.org/abs/2107.00781)][[Code](https://github.com/yhygao/UTNet)] <br>
 
 Medical image segmentation using squeezeand-expansion transformers [[PDF](https://arxiv.org/pdf/2105.09511)][[Code](https://github.com/askerlee/segtran)] <br>
 
@@ -251,6 +261,8 @@ Multi-view 3d reconstruction with transformer [[PDF](https://openaccess.thecvf.c
 
 #### Point Cloud Registration
 Regtr: End-to-end point cloud correspondences with transformer [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yew_REGTR_End-to-End_Point_Cloud_Correspondences_With_Transformers_CVPR_2022_paper.pdf)][[Code](https://github.com/yewzijian/RegTR)] <br>
+
+LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction [[PDF](https://arxiv.org/abs/2106.12102)][[Code](https://github.com/faridyagubbayli/LegoFormer)] <br>
 
 Robust point cloud registra tion framework based on deep graph matching [[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Robust_Point_Cloud_Registration_Framework_Based_on_Deep_Graph_Matching_CVPR_2021_paper.pdf)][[Code](https://github.com/fukexue/RGM)] <br>
 
