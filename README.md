@@ -141,6 +141,8 @@ Segment-Fusion: Hierarchical Context Fusion for Robust 3D Semantic Segmentation 
 
 #### Point Cloud Video Segmentation
 
+Point Spatio-Temporal Transformer Networks for Point Cloud Video Modeling [[PDF](https://ieeexplore.ieee.org/abstract/document/9740525)] <br>
+
 Spatial-Temporal Transformer for 3D Point Cloud Sequences [[PDF](https://openaccess.thecvf.com/content/WACV2022/papers/Wei_Spatial-Temporal_Transformer_for_3D_Point_Cloud_Sequences_WACV_2022_paper.pdf)] <br>
 
 Point 4D transformer networks for spatio-temporal modeling in point cloud videos [[PDF](http://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Point_4D_Transformer_Networks_for_Spatio-Temporal_Modeling_in_Point_Cloud_CVPR_2021_paper.pdf)][[Code](https://github.com/hehefan/P4Transformer)] <br>
