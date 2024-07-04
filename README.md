@@ -67,6 +67,8 @@ Attentional shapecontextnet for point cloud recognition [**CVPR 2018**][[PDF](ht
 
 ## 3D Object Detection
 
+NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields [**ECCV 2024**][[PDF](https://arxiv.org/pdf/2404.01300)] [[WebPage](https://nerf-mae.github.io/)] [[Code](https://github.com/zubair-irshad/NeRF-MAE)] <be>
+
 Bridged Transformer for Vision and Point Cloud 3D Object Detection [**CVPR 2022**][[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Bridged_Transformer_for_Vision_and_Point_Cloud_3D_Object_Detection_CVPR_2022_paper.pdf )] <br>
 
 Multimodal Token Fusion for Vision Transformers [**CVPR 2022**][[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Multimodal_Token_Fusion_for_Vision_Transformers_CVPR_2022_paper.pdf )][[Code](https://github.com/yikaiw/TokenFusion )] <br>
